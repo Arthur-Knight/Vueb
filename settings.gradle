@@ -1,5 +1,5 @@
 rootProject.name = 'vueb'
 
-include 'service'
+include 'server'
 include 'client'
 
